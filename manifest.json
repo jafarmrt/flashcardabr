@@ -1,0 +1,9 @@
+{
+  "name": "Lingua Cards",
+  "short_name": "LinguaCards",
+  "description": "A smart flashcard app for language learning with AI-powered features.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5"
+}

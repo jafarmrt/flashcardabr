@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lingua Cards",
+  "description": "A flashcard web application designed to help you learn new languages. Create, manage, and study your own custom flashcards with helpful AI-powered example sentences, all stored locally in your browser.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
